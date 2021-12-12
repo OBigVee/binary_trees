@@ -1,2 +1,2 @@
- <h1 style="background-color: green;">Binary Trees</h1>
+ # Binary Tree Data Structure
 
